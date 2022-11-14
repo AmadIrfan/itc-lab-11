@@ -1,0 +1,6 @@
+ // file.open("password.txt", ios::out);
+    // for (int i = 0; i < count; i++)
+    // {
+    //     file << pass[i];
+    // }
+    // file.close();
